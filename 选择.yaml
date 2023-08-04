@@ -1,0 +1,7 @@
+CheckboxParameter:
+  - key: 清理
+    value: 1
+  - key: 删除
+    value: 2
+  - key: 选择
+    value: 3
