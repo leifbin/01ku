@@ -1,5 +1,5 @@
 CheckboxParameter:
-  - key: 版本回滚
+  - key: 回滚(需要到Console Output手动选择回滚版本)
     value: roback
   - key: 清理目录
     value: del
