@@ -1,7 +1,9 @@
 CheckboxParameter:
-  - key: 清理清理清理清理
-    value: 1
-  - key: 删除清理清理
-    value: 2
-  - key: 选择清理清理
-    value: 3
+  - key: 版本回滚
+    value: roback
+  - key: 清理目录
+    value: del
+  - key: 代码质量扫描(TEST环境默认扫描)
+    value: scan
+  - key: sonar故障（取消TEST环境扫描)
+    value: skips    
